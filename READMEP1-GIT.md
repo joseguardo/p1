@@ -16,6 +16,7 @@
 
 ### Ponemos a prueba lo aprendido realizando lo mismo con otro repositorio sobre introducción a git encontrado en github
 ![image](https://github.com/joseguardo/p1/assets/122973291/d078e815-4b0e-4a4e-a3e5-15576716a09f)
+### mediante este el comando clone aparece en  nuestro workspace el repositorio clonado, abriendose los diferentes archivos que se encuentran en este repositorio. De esta forma puedo empezar a contribuir al proyecto, hacer modificaciones, etc. 
 
 
 
