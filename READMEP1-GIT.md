@@ -11,6 +11,10 @@
 ### git push nos permite actualizar los cambios en repositorios remotos, es decir aquellos que están fuera de nuestro repositorio clonado que  estamos manipulando. Vemos en la imagen como esto se ha hecho el push al repositorio p1.  
 ![image](https://github.com/joseguardo/p1/assets/122973291/7ca1f417-8a77-4030-913f-6136f7e71a09)
 
+### por úlitmo tenemos lo comandos git checkout -b feature/1 y git checkout main. Con el primero nos movemos a la rama indicad y con el último al main. Por tanto concluimos en que mediante checkout nos movemos entre ramas del repositorio. 
+![image](https://github.com/joseguardo/p1/assets/122973291/072e0945-f412-460e-86ff-5cf985051221)
+
+
 
 
 
