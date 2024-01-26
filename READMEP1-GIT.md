@@ -1,4 +1,4 @@
-## Resumen de la práctica de hoy
+## Resumen de la práctica 1 ~ *GIT*
 # git clone https://github.com/gitt-3-pat/p1 --> con este comando clonamos en la dirección desde la que se ejecuta el comando
 ![image](https://github.com/joseguardo/p1/assets/122973291/a83b757c-dc6a-4618-a9f8-3708de2ae152)
 
