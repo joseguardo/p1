@@ -14,6 +14,10 @@
 ### por úlitmo tenemos lo comandos git checkout -b feature/1 y git checkout main. Con el primero nos movemos a la rama indicad y con el último al main. Por tanto concluimos en que mediante checkout nos movemos entre ramas del repositorio. 
 ![image](https://github.com/joseguardo/p1/assets/122973291/072e0945-f412-460e-86ff-5cf985051221)
 
+### Ponemos a prueba lo aprendido realizando lo mismo con otro repositorio sobre introducción a git encontrado en github
+![image](https://github.com/joseguardo/p1/assets/122973291/d078e815-4b0e-4a4e-a3e5-15576716a09f)
+
+
 
 
 
